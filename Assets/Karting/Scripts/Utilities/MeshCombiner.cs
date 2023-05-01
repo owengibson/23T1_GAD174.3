@@ -14,7 +14,7 @@ public class MeshCombiner : MonoBehaviour
 
     private void Start()
     {
-        Combine();
+        // Combine();
     }
 
     public void Combine()
